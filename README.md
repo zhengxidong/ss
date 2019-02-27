@@ -1,1 +1,1 @@
-[翻墙大全](https://github.com/zhengxidong/ss/wiki)
+翻墙大全 https://github.com/zhengxidong/ss/wiki
