@@ -25,3 +25,7 @@
 * chromium浏览器自带翻墙
   
   https://github.com/jjqqkk/chromium
+  
+* 翻墙视频教程
+
+  https://www.youtube.com/channel/UCcxVnRRNyC33FdENo4gUQKw
