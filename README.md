@@ -1,3 +1,4 @@
+## 免费科学上网
 * 个人总结翻墙大全 
 
   https://github.com/zhengxidong/ss/wiki
@@ -29,3 +30,7 @@
 * 翻墙视频教程
 
   https://www.youtube.com/channel/UCcxVnRRNyC33FdENo4gUQKw
+
+## 收费科学上网
+
+http://qqmxgo.xyz/?gclid=EAIaIQobChMIjvid9K_c4AIVUxh9Ch2mxwuIEAMYAyAAEgIa7vD_BwE#pricing
