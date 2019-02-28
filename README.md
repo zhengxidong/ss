@@ -49,6 +49,12 @@
 
 http://qqmxgo.xyz/?gclid=EAIaIQobChMIjvid9K_c4AIVUxh9Ch2mxwuIEAMYAyAAEgIa7vD_BwE#pricing
 
+## ssr中文网
+
+https://ssr.tools/55
+
 ## vps服务器
 
+vultr
 
+https://www.vultr.com/pricing/
