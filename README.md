@@ -41,6 +41,8 @@
 
   https://sphard2.github.io/gfw/
   
+  https://darrenliuwei.com/%E4%B8%80%E4%BA%9B%E5%85%8D%E8%B4%B9%E7%9A%84%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6.html
+  
 ## 收费科学上网
 
 http://qqmxgo.xyz/?gclid=EAIaIQobChMIjvid9K_c4AIVUxh9Ch2mxwuIEAMYAyAAEgIa7vD_BwE#pricing
