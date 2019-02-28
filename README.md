@@ -17,3 +17,7 @@
 * 节点
 
   https://free-ss.site/
+  
+  * chromium浏览器自带翻墙
+  
+  https://github.com/jjqqkk/chromium
