@@ -1,13 +1,13 @@
 ## 免费科学上网
-* 个人总结翻墙大全 
+* 个人总结科学上网大全 
 
   https://github.com/zhengxidong/ss/wiki
 
-* 其它翻墙大全
+* 其它科学上网大全
 
   https://github.com/bannedbook/fanqiang/wiki
 
-* 蓝灯翻墙
+* 蓝灯科学上网
 
   https://github.com/getlantern/lantern
 
@@ -23,11 +23,11 @@
 
   https://free-ss.site/
   
-* chromium浏览器自带翻墙
+* chromium浏览器自带科学上网
   
   https://github.com/jjqqkk/chromium
   
-* 翻墙视频教程
+* 科学上网视频教程
 
   https://www.youtube.com/channel/UCcxVnRRNyC33FdENo4gUQKw
 
