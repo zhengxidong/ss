@@ -1,6 +1,6 @@
 * 个人总结翻墙大全 
 
- https://github.com/zhengxidong/ss/wiki
+  https://github.com/zhengxidong/ss/wiki
 
 * 其它翻墙大全
 
@@ -8,12 +8,12 @@
 
 * 蓝灯翻墙
 
-https://github.com/getlantern/lantern
+  https://github.com/getlantern/lantern
 
 * shadowsocks
 
-https://github.com/shadowsocks
+  https://github.com/shadowsocks
 
 * 节点
 
-https://free-ss.site/
+  https://free-ss.site/
