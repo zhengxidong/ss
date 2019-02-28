@@ -11,9 +11,10 @@
 
   https://github.com/getlantern/lantern
 
-* shadowsocks下载
+* shadowsocks
 
-  https://github.com/shadowsocks
+  官方：https://shadowsocks.org/
+  github：https://github.com/shadowsocks
 
 * 免费ss账号
 
