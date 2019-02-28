@@ -10,11 +10,11 @@
 
   https://github.com/getlantern/lantern
 
-* shadowsocks
+* shadowsocks下载
 
   https://github.com/shadowsocks
 
-* 节点
+* 节点地址
 
   https://free-ss.site/
   
