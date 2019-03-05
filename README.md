@@ -60,6 +60,4 @@ https://ssr.tools/55
 
 ## vps服务器
 
-vultr
-
-https://www.vultr.com/pricing/
+[vultr](https://www.vultr.com/pricing/)
