@@ -32,7 +32,9 @@
 
   https://free-ss.site/
   
-  https://m.eruo.ml(可直连)
+  https://tool.ssrshare.us/tool/free_ssr
+  
+  https://m.eruo.ml/free_ssr(可直连)
   
 * chromium浏览器自带科学上网
   
