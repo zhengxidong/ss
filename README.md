@@ -32,6 +32,8 @@
 
   https://free-ss.site/
   
+  https://m.eruo.ml(可直连)
+  
 * chromium浏览器自带科学上网
   
   https://github.com/jjqqkk/chromium
