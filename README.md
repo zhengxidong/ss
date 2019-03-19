@@ -10,9 +10,9 @@
 │   └── SimpleProxy.crx
 ├── firefox_extensions  //火狐浏览器插件
 │   └── firefox_extension_setupvpn_3.3.4.xpi
-├── images //图片
+├── images              //图片
 │   └── SimpleProxy_config.png
-├── mac_ssr //mac翻墙软件
+├── mac_ssr             //mac翻墙软件
 │   └── ShadowsocksX-NG-R8.dmg
 └── README.md
 ```
