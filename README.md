@@ -20,17 +20,21 @@
 
   https://github.com/zhengxidong/ss/wiki
 
+* [shadowsocks官方](https://shadowsocks.org/]
+* [shadowsocks github](https://github.com/shadowsocks)
+  
 * shadowsocks 客户端下载
-  * Linux 
+  * Linux
+    * [github](https://github.com/shadowsocks/shadowsocks-qt5/releases)
   * Mac
+    * [github](https://github.com/shadowsocks/ShadowsocksX-NG/releases)
   * Windows
+    * [github](https://github.com/shadowsocks/shadowsocks-windows/releases)
   * Ios
   * Android
-
-  官方：https://shadowsocks.org/
-  
-  github：https://github.com/shadowsocks
-
+    * [官方](https://github.com/Jigsaw-Code/outline-releases/blob/master/client/Outline.apk?raw=true)
+    * [Google Play](https://play.google.com/store/apps/details?id=com.github.shadowsocks)
+   
 * 免费ss账号
 
   https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7
