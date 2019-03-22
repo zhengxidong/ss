@@ -16,7 +16,7 @@
 │   └── ShadowsocksX-NG-R8.dmg
 └── README.md
 ```
-* 个人总结科学上网大全 
+* 科学上网大全 
 
   https://github.com/zhengxidong/ss/wiki
 
