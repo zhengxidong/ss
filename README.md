@@ -55,17 +55,7 @@
 * chromium浏览器自带科学上网
   
   https://github.com/jjqqkk/chromium
-  
-* 科学上网视频教程
-
-  https://www.youtube.com/channel/UCcxVnRRNyC33FdENo4gUQKw
-
-* 刘伟科学上网教程
-
-  https://sphard2.github.io/gfw/
-  
-  https://darrenliuwei.com/%E4%B8%80%E4%BA%9B%E5%85%8D%E8%B4%B9%E7%9A%84%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6.html
-  
+    
 ## ss账号购买
 
 http://qqmxgo.xyz/?gclid=EAIaIQobChMIjvid9K_c4AIVUxh9Ch2mxwuIEAMYAyAAEgIa7vD_BwE#pricing
