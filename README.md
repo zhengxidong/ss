@@ -26,7 +26,7 @@
 
 * 蓝灯科学上网
 
-  https://github.com/getlantern/lantern
+  [lantern](https://github.com/getlantern/lantern)
 
 * shadowsocks
 
