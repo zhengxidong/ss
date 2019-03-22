@@ -20,10 +20,6 @@
 
   https://github.com/zhengxidong/ss/wiki
 
-* 其它科学上网大全
-
-  https://github.com/bannedbook/fanqiang/wiki
-
 * 蓝灯科学上网
 
   [lantern](https://github.com/getlantern/lantern)
