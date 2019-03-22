@@ -44,7 +44,7 @@
   
   https://github.com/gfw-breaker/ssr-accounts
 
-* 节点地址
+* 节点
 
   https://free-ss.site/
   
