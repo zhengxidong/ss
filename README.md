@@ -20,10 +20,6 @@
 
   https://github.com/zhengxidong/ss/wiki
 
-* 蓝灯科学上网
-
-  [lantern](https://github.com/getlantern/lantern)
-
 * shadowsocks 客户端下载
   * Linux 
   * Mac
