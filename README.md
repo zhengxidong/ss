@@ -24,7 +24,12 @@
 
   [lantern](https://github.com/getlantern/lantern)
 
-* shadowsocks
+* shadowsocks 客户端下载
+  * Linux 
+  * Mac
+  * Windows
+  * Ios
+  * Android
 
   官方：https://shadowsocks.org/
   
