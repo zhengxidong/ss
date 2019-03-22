@@ -84,4 +84,3 @@ https://ssr.tools/55
 
 [virmach](https://billing.virmach.com)
 
-[老高博客](https://blog.phpgao.com/vps.html)
