@@ -83,3 +83,5 @@ https://ssr.tools/55
 [vultr](https://www.vultr.com/pricing/)
 
 [virmach](https://billing.virmach.com)
+
+[老高博客](https://blog.phpgao.com/vps.html)
