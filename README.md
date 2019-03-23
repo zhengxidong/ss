@@ -16,56 +16,48 @@
 │   └── ShadowsocksX-NG-R8.dmg
 └── README.md
 ```
-* 个人总结科学上网大全 
+## 科学上网大全 
 
   https://github.com/zhengxidong/ss/wiki
 
-* 其它科学上网大全
-
-  https://github.com/bannedbook/fanqiang/wiki
-
-* 蓝灯科学上网
-
-  https://github.com/getlantern/lantern
-
-* shadowsocks
-
-  官方：https://shadowsocks.org/
+* [shadowsocks官方](https://shadowsocks.org)
+* [shadowsocks github](https://github.com/shadowsocks)
   
-  github：https://github.com/shadowsocks
-
-* 免费ss账号
+## shadowsocks 客户端下载
+  * Linux
+    * [github](https://github.com/shadowsocks/shadowsocks-qt5/releases)(ubuntu版)
+    * [github](https://github.com/shadowsocks/shadowsocks-qt5/wiki/%E5%AE%89%E8%A3%85%E6%8C%87%E5%8D%97)(其它发行版)
+  * Mac
+    * [github](https://github.com/shadowsocks/ShadowsocksX-NG/releases)
+  * Windows
+    * [github](https://github.com/shadowsocks/shadowsocks-windows/releases)
+  * Ios
+  * Android
+    * [官方](https://github.com/Jigsaw-Code/outline-releases/blob/master/client/Outline.apk?raw=true)
+    * [Google Play](https://play.google.com/store/apps/details?id=com.github.shadowsocks)
+   
+## 免费ss账号
 
   https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7
 
-* 免费SSR帐号分享
+## 免费SSR帐号
 
-  http://www.52ssr.net/
+  [www.52ssr.net](http://www.52ssr.net/)
   
-  https://github.com/gfw-breaker/ssr-accounts
+  [ssr-accounts](https://github.com/gfw-breaker/ssr-accounts)
 
-* 节点地址
+## 节点
 
-  https://free-ss.site/
+  [free-ss.site](https://free-ss.site/)
   
-  https://tool.ssrshare.us/tool/free_ssr
+  [tool.ssrshare.us](https://tool.ssrshare.us/tool/free_ssr)
   
-  https://m.eruo.ml/free_ssr(可直连)
+  [m.eruo.ml](https://m.eruo.ml/free_ssr)(可直连)
   
-* chromium浏览器自带科学上网
+## chromium浏览器自带科学上网
   
-  https://github.com/jjqqkk/chromium
-  
-* 科学上网视频教程
-
-  https://www.youtube.com/channel/UCcxVnRRNyC33FdENo4gUQKw
-
-* 刘伟科学上网教程
-
-  https://sphard2.github.io/gfw/
-  
-  https://darrenliuwei.com/%E4%B8%80%E4%BA%9B%E5%85%8D%E8%B4%B9%E7%9A%84%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6.html
-  
+  [chromium](https://github.com/jjqqkk/chromium)
+    
 ## ss账号购买
 
 http://qqmxgo.xyz/?gclid=EAIaIQobChMIjvid9K_c4AIVUxh9Ch2mxwuIEAMYAyAAEgIa7vD_BwE#pricing
