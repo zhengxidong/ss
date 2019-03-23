@@ -8,7 +8,7 @@
 ├── chrome_extensions    //谷歌浏览器插件
 ├── files                //图片目录
 ├── firefox_extensions   //火狐浏览器插件
-└── mac_ssr              //mac翻墙软件
+└── mac_ssr              //mac shadowsocks 客户端
 ```
 ## 科学上网大全 
 
@@ -16,8 +16,8 @@
  
 ## shadowsocks 客户端下载
   * Linux
-    * [github](https://github.com/shadowsocks/shadowsocks-qt5/releases)(ubuntu版)
-    * [github](https://github.com/shadowsocks/shadowsocks-qt5/wiki/%E5%AE%89%E8%A3%85%E6%8C%87%E5%8D%97)(其它发行版)
+    * [ubuntu版](https://github.com/shadowsocks/shadowsocks-qt5/releases)(ubuntu版)
+    * [其它发行版](https://github.com/shadowsocks/shadowsocks-qt5/wiki/%E5%AE%89%E8%A3%85%E6%8C%87%E5%8D%97)(其它发行版)
   * Mac
     * [github](https://github.com/shadowsocks/ShadowsocksX-NG/releases)
   * Windows
