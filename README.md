@@ -19,9 +19,9 @@
     * [ubuntu版](https://github.com/shadowsocks/shadowsocks-qt5/releases)(ubuntu版)
     * [其它发行版](https://github.com/shadowsocks/shadowsocks-qt5/wiki/%E5%AE%89%E8%A3%85%E6%8C%87%E5%8D%97)(其它发行版)
   * Mac
-    * [github](https://github.com/shadowsocks/ShadowsocksX-NG/releases)
+    * [Mac版](https://github.com/shadowsocks/ShadowsocksX-NG/releases)
   * Windows
-    * [github](https://github.com/shadowsocks/shadowsocks-windows/releases)
+    * [Windows版](https://github.com/shadowsocks/shadowsocks-windows/releases)
   * Ios
   * Android
     * [官方](https://github.com/Jigsaw-Code/outline-releases/blob/master/client/Outline.apk?raw=true)
