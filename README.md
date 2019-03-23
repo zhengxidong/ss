@@ -19,10 +19,7 @@
 ## 科学上网大全 
 
   https://github.com/zhengxidong/ss/wiki
-
-* [shadowsocks官方](https://shadowsocks.org)
-* [shadowsocks github](https://github.com/shadowsocks)
-  
+ 
 ## shadowsocks 客户端下载
   * Linux
     * [github](https://github.com/shadowsocks/shadowsocks-qt5/releases)(ubuntu版)
