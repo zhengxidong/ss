@@ -4,17 +4,11 @@
 目录结构说明
 ```
 .
-├── chrome_extensions   //谷歌浏览器插件
-│   ├── Chrome-SetupVPN-3.5.2.crx
-│   ├── README.md
-│   └── SimpleProxy.crx
-├── firefox_extensions  //火狐浏览器插件
-│   └── firefox_extension_setupvpn_3.3.4.xpi
-├── images              //图片
-│   └── SimpleProxy_config.png
-├── mac_ssr             //mac翻墙软件
-│   └── ShadowsocksX-NG-R8.dmg
-└── README.md
+├── README.md 
+├── chrome_extensions    //谷歌浏览器插件
+├── files                //图片目录
+├── firefox_extensions   //火狐浏览器插件
+└── mac_ssr              //mac翻墙软件
 ```
 ## 科学上网大全 
 
