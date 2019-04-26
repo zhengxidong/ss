@@ -45,6 +45,8 @@
   
   [m.eruo.ml](https://m.eruo.ml/free_ssr)(可直连)
   
+  [ss.weiwei.in](https://ss.weiwei.in)
+  
 ## chromium浏览器自带科学上网
   
   [chromium](https://github.com/jjqqkk/chromium)
